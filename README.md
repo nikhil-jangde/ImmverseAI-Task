@@ -41,9 +41,9 @@ cd ticket-booking-app/ticket-booking-client
 
   >ID & Password for Testing
   
-  -ID : nikhiljangde123@gmail.com
+  ID : nikhiljangde123@gmail.com
   
-  -PASS : nikhil@22
+  PASS : Nikhil@22
   
   with this demo password you can signed in the app or also can do SignUp with new ID & PASS.
   
