@@ -17,22 +17,24 @@ First, clone this repository to your local machine using the following command:
 mkdir ticket-booking-app
 
 bash
-git clone https://github.com/yourusername/ticket-booking-app.git
+git clone https://github.com/nikhil-jangde/ImmverseAI-Task.git
 
 ### Client-Side App Setup
 
 # Navigate to the client-side app directory:
-> cd ticket-booking-app/ticket-booking-client
+cd ticket-booking-app/ticket-booking-client
 
 # Install Dependancy
-> npm install
-> npm run start
+- npm install
+  
+- npm run start
 
 ### Server-Side App Setup
 
 # Navigate to the server-side app directory:
-> cd ticket-booking-app/ticket-booking-client
+> cd ticket-booking-app/ticket-booking-server
 
 # Install Dependancy
-> npm install
-> npm run start
+- npm install
+  
+- npm run start
